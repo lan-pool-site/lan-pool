@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "修复了一些 bug",
-  "pub_date": "2026-02-27T01:25:05Z",
+  "version": "0.1.2",
+  "notes": "Fixed some bugs",
+  "pub_date": "2026-03-06T01:25:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZytyVlFNNk5uWklvbXBWR2IyMUNydnhwV0dzMWVzRmZkQU0xT01NN2RTRG9UNXZDVlVWc2R0UGdZRkpJSXUzUmlJU2JXV3piSVFBL1A3T1NhdEhucDNmZGpFUHlFZmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTc5MjA2CWZpbGU6TEFOIFBvb2xfMC4xLjFfeDY0LXNldHVwLmV4ZQpGVDlrVU5sa0lSR0RJT3I4cXRrNTVvV0MyTWFVUGdObmRTalhZbnVnL2hjVkxxRXVVNUdnaXFLaXMvaEE5ZjRJV1M5ZWIvQnpCeGduZG9rS1JIUDhBZz09Cg==",
-      "url": "https://github.com/lan-pool-site/lan-pool/releases/download/0.1.1/LAN.Pool_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZytyVlFNNk5uWkp2dFJJYlNIRm1yVktEbnRVZWVZVGNjL0t2MkVPUlUvZ2FreEw0OWhnZ2VwMzVjbXl6Vm9mZ1Q5dXNKWGRYWXowZmhXOUY5aW9PMU5qRW9aV3UxVlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjkzNjE4CWZpbGU6TEFOIFBvb2xfMC4xLjJfeDY0LXNldHVwLmV4ZQpCYkVDVmw4bWh1UDNLbnlvZmFpd3lxdUt6L1pZNEZGOHNFSFFFU25sVUlLd3ozenVtaFhJeUl5RjJjZHczZDZaN2RZZHZQeDFrdElLMVdZbExxbzBDUT09Cg==",
+      "url": "https://github.com/lan-pool-site/lan-pool/releases/download/0.1.2/LAN Pool_0.1.2_x64-setup.exe"
     }
   }
 }
